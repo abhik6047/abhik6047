@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhik6047&label=Profile%20views&color=0e75b6&style=flat" alt="abhik6047" /> </p>
 
-- 🔭 I’m currently working in **Netcom Learning**
+- 🔭 I’m currently working in **Netcom Learning.**
 
 - 🌱 I’m currently improving my **problem solving skills**
 
-- 💬 Ask me about **html, css, js,reactjs, nextjs.**
+- 💬 Ask me about **html, css, js, ReactJS, NextJS.**
 
 - 📫 How to reach me **abhijeetkarlewar01@gmail.com**
 

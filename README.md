@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently improving my **problem solving skills**
 
-- 💬 Ask me about **html, css, js, ReactJS, NextJS.**
+- 💬 Ask me about **HTML, CSS, JS, ReactJS, NextJS.**
 
 - 📫 How to reach me **abhijeetkarlewar01@gmail.com**
 
